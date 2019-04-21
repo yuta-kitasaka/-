@@ -1,0 +1,117 @@
+header{
+  height: 80px;
+  width:100%;
+  margin-bottom: 50px;
+  background-color: black;
+}
+.title{
+  color:white;
+font-size: 30px;
+margin:0 0 0 20px;
+box-sizing: border-box;
+line-height: 80px;
+}
+.profile h1{
+  background-color: black;
+  color:white;
+}
+.profile h2{
+
+  margin: 0;
+}
+.profile{
+  text-align:center;
+}
+.profile-text{
+  margin: 5px 0 0 0;
+width: 40%;
+display: inline-block;
+}
+.list h1{
+  background-color: black;
+  color:white;
+text-align:center;
+}
+.netalist{
+  font-size: 20px;
+}
+.netalist a{
+  color:black;
+}
+.netalist a{
+  text-decoration: none;
+}
+.neta h2{
+  background-color: black;
+  color: white;
+}
+.country{
+  border-bottom: 2px solid black;
+padding-bottom: 15px;
+margin-bottom: 100px;
+}
+.mada{
+
+}
+.aru{
+
+}
+.uku{
+}
+
+.cos{
+
+}
+.baha{
+
+}
+.name{
+  color:red;
+}
+  .neta a{
+    text-decoration: none;
+}
+footer{
+  margin-top: 300px;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  height:100px;
+
+}
+footer p{
+  float: left;
+margin-top: 50px;
+  line-height: 50%;
+}
+
+.link{
+  list-style: none;
+  float:right;
+  margin-top: 30px;
+}
+.link a{
+  color: black;
+  text-decoration:none;
+}
+.twitter:hover{
+  opacity: 0.3;
+}
+.youtube:hover{
+  opacity: 0.3;
+}
+.twitter{
+  background-color: skyblue;
+  margin-bottom: 5px;
+}
+.fa-twitter{
+color: white;
+}
+.fa-youtube{
+color: white;
+}
+.youtube{
+  background-color: red;
+}
+.fab{
+  font-size: 15px;
+  margin:3px;
